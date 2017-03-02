@@ -1,0 +1,12 @@
+{
+  "name": "boost-date-time",
+  "dependencies": {
+    "boost-config": "1.63.0",
+    "boost-throw-exception": "1.63.0",
+    "boost-mpl": "1.63.0",
+    "boost-preprocessor": "1.63.0",
+    "boost-smart-ptr": "1.63.0",
+    "boost-lexical-cast": "1.63.0",
+    "boost-tokenizer": "1.63.0"
+  }
+}
