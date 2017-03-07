@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'tutorial',
+  srcs = glob([
+    'tutorial/**/*.cpp',
+  ]),
+  deps = [
+    '//:boost-date-time',
+  ],
+)
